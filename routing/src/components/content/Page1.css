@@ -1,0 +1,13 @@
+.Page1 {
+    margin-top: 60px;
+    background-color:pink;
+    flex:1;
+    height: calc(100vh - 60px);
+}
+
+@media only screen and (min-width:1000px) {
+    .Page1 {
+        margin-left:200px;
+    }
+    
+}

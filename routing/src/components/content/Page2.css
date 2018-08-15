@@ -1,0 +1,12 @@
+.Page2 {
+    margin-top: 60px;
+    background-color:rgb(140, 168, 142);
+    height: calc(100vh - 60px);
+}
+
+@media only screen and (min-width:1000px) {
+    .Page2 {
+        margin-left:200px;
+    }
+    
+}
